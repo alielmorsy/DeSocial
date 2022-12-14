@@ -13,3 +13,4 @@ DeSocial is a new project i am working on it. Its a new full decentralized web u
 Its currently under development. but you can contact me on mail if u wanna contribute to make the project moves faster.
 Was Off Unfortunately due to live matters :( 
 
+You Can see my full Idea at: https://docs.google.com/document/d/1-Aa7Pp4toGOg1arqx89Xvf65G5BvPSl9i45oggNCYvk/edit
